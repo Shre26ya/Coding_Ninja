@@ -1,3 +1,4 @@
+///
 int firstElementKTime(int n, int k, int a[]) {
     unordered_map<int, int> firstOccurrence;
     int ans = -1; // Initialize ans
